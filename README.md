@@ -2,7 +2,7 @@
 #### descrição
 Este repositorio contém uma implementação de uma rede neural de base radial(RBFN). Para a execução da mesma é necessário apenas a lib do numpy, porém para realizar os testes é necessário instalar a lib sklearn, para usar as funções de métricas e acessar o dataset do iris. Todas as funções da RBFN são implementadas manualmente, as decrições da mesma seguem abaixo. 
 
-<img src="imgs/RBFNN.PNG" width=320>
+<img src="imgs/RBFNN.png" width=320>
 
 
 #### Execução e teste
